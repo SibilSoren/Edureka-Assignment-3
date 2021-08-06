@@ -1,6 +1,6 @@
 # Edureka-Assignment-3
 
-Added have attached code snippets of each question
+I have attached code snippets of each question
 
 ## Code Snippet for Question 1
 
